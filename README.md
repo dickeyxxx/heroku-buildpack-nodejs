@@ -4,7 +4,7 @@ Heroku Buildpack for Node.js
 This is the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps. If you fork this repository, please **update this README** to explain what your fork does and why it's special.
 
 
-How it Works
+How it works
 ------------
 
 Here's an overview of what this buildpack does:
